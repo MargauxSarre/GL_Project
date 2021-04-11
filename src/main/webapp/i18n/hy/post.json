@@ -1,0 +1,26 @@
+{
+  "myblogApp": {
+    "post": {
+      "home": {
+        "title": "Posts",
+        "createLabel": "Ստեղծել նոր Post",
+        "createOrEditLabel": "Ստեղծել կամ փոփոխել Post",
+        "notFound": "No Posts found"
+      },
+      "created": "Նոր Post ստեղծված է {{ param }} նունացուցիչով",
+      "updated": "Post թարմացվաց է {{ param }} նունացուցիչով",
+      "deleted": "Post հեռացված է {{ param }}  նունացուցիչով",
+      "delete": {
+        "question": "Դուք վստահ ե՞ք, որ ցանկանում եք հեռացնել Post {{ id }}?"
+      },
+      "detail": {
+        "title": "Post"
+      },
+      "title": "Title",
+      "content": "Content",
+      "date": "Date",
+      "blog": "Blog",
+      "tag": "Tag"
+    }
+  }
+}

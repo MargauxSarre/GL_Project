@@ -1,0 +1,26 @@
+{
+  "myblogApp": {
+    "post": {
+      "home": {
+        "title": "Posts",
+        "createLabel": "Post အသစ်ထည့်မည်",
+        "createOrEditLabel": "Post အသစ်ထည့်ခြင်း (သို့) ပြုပြင်ခြင်း",
+        "notFound": "No Posts found"
+      },
+      "created": "{{ param }} အိုင်ဒီဖြင့် Post အသစ်တစ်ခုအား ထည့်ပြီးပါပြီ။",
+      "updated": "{{ param }} အိုင်ဒီဖြင့် Post တစ်ခုအား ပြုပြင်ပြီးပါပြီ။",
+      "deleted": "{{ param }} အိုင်ဒီဖြင့် Post တစ်ခုအား ဖျက်ပြီးပါပြီ။",
+      "delete": {
+        "question": "Post {{ id }} အား ဖျက်ပါမည်။ သေချာပါသလား?"
+      },
+      "detail": {
+        "title": "Post"
+      },
+      "title": "Title",
+      "content": "Content",
+      "date": "Date",
+      "blog": "Blog",
+      "tag": "Tag"
+    }
+  }
+}

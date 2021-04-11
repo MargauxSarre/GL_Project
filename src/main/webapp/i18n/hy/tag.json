@@ -1,0 +1,23 @@
+{
+  "myblogApp": {
+    "tag": {
+      "home": {
+        "title": "Tags",
+        "createLabel": "Ստեղծել նոր Tag",
+        "createOrEditLabel": "Ստեղծել կամ փոփոխել Tag",
+        "notFound": "No Tags found"
+      },
+      "created": "Նոր Tag ստեղծված է {{ param }} նունացուցիչով",
+      "updated": "Tag թարմացվաց է {{ param }} նունացուցիչով",
+      "deleted": "Tag հեռացված է {{ param }}  նունացուցիչով",
+      "delete": {
+        "question": "Դուք վստահ ե՞ք, որ ցանկանում եք հեռացնել Tag {{ id }}?"
+      },
+      "detail": {
+        "title": "Tag"
+      },
+      "name": "Name",
+      "entry": "Entry"
+    }
+  }
+}

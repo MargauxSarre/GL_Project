@@ -1,0 +1,24 @@
+{
+  "myblogApp": {
+    "blog": {
+      "home": {
+        "title": "Blogs",
+        "createLabel": "Ստեղծել նոր Blog",
+        "createOrEditLabel": "Ստեղծել կամ փոփոխել Blog",
+        "notFound": "No Blogs found"
+      },
+      "created": "Նոր Blog ստեղծված է {{ param }} նունացուցիչով",
+      "updated": "Blog թարմացվաց է {{ param }} նունացուցիչով",
+      "deleted": "Blog հեռացված է {{ param }}  նունացուցիչով",
+      "delete": {
+        "question": "Դուք վստահ ե՞ք, որ ցանկանում եք հեռացնել Blog {{ id }}?"
+      },
+      "detail": {
+        "title": "Blog"
+      },
+      "name": "Name",
+      "handle": "Handle",
+      "user": "User"
+    }
+  }
+}
