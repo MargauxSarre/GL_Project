@@ -10,6 +10,13 @@
         "blog": "Blog",
         "post": "Post",
         "tag": "Tag",
+        "compte": "Compte",
+        "restaurant": "Restaurant",
+        "typeCommerce": "Type Commerce",
+        "produit": "Produit",
+        "commande": "Commande",
+        "course": "Course",
+        "avis": "Avis",
         "jhipster-needle-menu-add-entry": "JHipster will add additional entities here (do not translate!)"
       },
       "account": {
